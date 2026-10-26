@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resolve Shortsを一本ずつ制作"
+  short_description: "長尺動画から一本ずつ構成を確認し、具体的な気づきと本編へのつながりを保って制作"
+  default_prompt: "$resolve-short-one を使って、開いている長尺完成版からShortを一本作りたい。素材固有の具体例や気づきと、本編で確かめたくなる続きを含む構成案を、必要な図・画面文言とともに簡潔に一つ提示してください。私の承認後に制作してください。"

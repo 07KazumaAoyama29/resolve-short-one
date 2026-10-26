@@ -1,0 +1,13 @@
+# Only reviewed distribution files are tracked.
+/*
+!/.gitignore
+!/SKILL.md
+!/README.md
+!/LICENSE
+!/agents/
+/agents/*
+!/agents/openai.yaml
+!/references/
+/references/*
+!/references/tool-editing.md
+!/references/explanation.md
